@@ -1,5 +1,5 @@
 <div style='text-align:center'>
-    <img src='http://www.codetrotters.com/assets/images/logo.png' style='width:400px;margin-bottom:50px'/>
+    <img src='http://www.codetrotters.com/assets/images/logo.png' style='width:100%;margin-bottom:50px'/>
 </div>
 
 #CodeTrotters Fellowship Coding Challenge 2015
@@ -19,8 +19,8 @@ You can read more about the CodeTrotters Fellowship at [http://www.codetrotters.
 ##Participating in the Challenge
 
 To participate in this challenge, you need a github account
-to fork this repository, once you finish with your solution
-create sends us a Pull Request with your solution.
+to fork this repository. Once you finish with your solution
+sends us a Pull Request.
 
 Solutions must be submitted before **??????**
 
