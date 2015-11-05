@@ -22,10 +22,7 @@ To participate in this challenge, you need a github account
 to fork this repository. Once you finish with your solution
 sends us a Pull Request.
 
-Solutions must be submitted before **??????**
-
 We are looking forward to read all your solutions!
-
 
 ##Challenge
 
