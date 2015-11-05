@@ -11,15 +11,15 @@
 links promising developers with startups so they
 can get invaluable real life experience.
 
-As part of the application process we post a coding challenge coding challenge every year. 
+As part of the application process we post a coding challenge every year. 
 
 You can read more about the CodeTrotters Fellowship at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
 
 
 ##Participating in the Challenge
 
-To participate in this challenge, you need a github account
-to fork this repository. Once you finish with your solution
+To participate in this challenge, you need a github account.
+Fork this repository, once you finish with your solution
 sends us a Pull Request.
 
 We are looking forward to read all your solutions!
