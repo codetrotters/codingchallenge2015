@@ -2,13 +2,13 @@
     <img src='http://www.codetrotters.com/assets/images/logo.png' style='width:100%;margin-bottom:50px'/>
 </div>
 
-#CodeTrotters Fellowship Coding Challenge 2015
+#Codetrotters Fellowship Coding Challenge 2015
 
 
 ##About
 
 **[CodeTrotters Fellowship](http://www.codetrotters.com/fellowship)** 
-links promising developers with startups so they
+links promising developers with global startups so they
 can get invaluable real life experience.
 
 As part of the application process we post a coding challenge every year. 
