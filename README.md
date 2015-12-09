@@ -2,7 +2,7 @@
     <img src='http://www.codetrotters.com/assets/images/logo.png' style='width:100%;margin-bottom:50px'/>
 </div>
 
-#Codetrotters Fellowship Coding Challenge 2015
+#Codetrotters Fellowship Coding Challenge Summer 2016
 
 
 ##About
@@ -11,16 +11,15 @@
 links promising developers with global startups so they
 can get invaluable real life experience.
 
-As part of the application process we post a coding challenge every year. 
+As part of the application process we post a coding challenge every year, and this year's applications will be accepted through January 29th, 2016. 
 
-You can read more about the CodeTrotters Fellowship at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
+You can read more about the CodeTrotters *Fellowship* at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
 
 
 ##Participating in the Challenge
 
-To participate in this challenge, you need a github account.
-Fork this repository, once you finish with your solution
-sends us a Pull Request.
+
+To participate in this challenge, you need a *GitHub* account. Fork this repository *and* once you finish with your solution, *send* us a Pull Request.
 
 We are looking forward to read all your solutions!
 
