@@ -7,11 +7,11 @@
 
 ##About
 
-**[CodeTrotters Fellowship](http://www.codetrotters.com/fellowship)** 
+**[Codetrotters Fellowship](http://www.codetrotters.com/fellowship)** 
 links promising developers with global startups so they
 can get invaluable real life experience.
 
-As part of the application process we post a coding challenge every year, and this year's applications will be accepted through January 29th, 2016. 
+As part of the application process we post a coding challenge every year, and this year's applications will be accepted through February 15th, 2016. 
 
 You can read more about the CodeTrotters *Fellowship* at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
 
